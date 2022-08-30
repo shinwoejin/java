@@ -1,0 +1,20 @@
+package kr.brains02;
+
+public class Gugudan {
+	private int col = 9;
+	private int row = 9;
+	
+	int dan;
+	
+	// 지정한 단만 출력
+	private void printOne(int dan) {
+		for(int i = 1; i < col; i++) {
+			System.out.println(dan + " * " + i + " = " + dan * i);
+		}
+	}
+	
+	// 2~9단을 출력
+	public void printAll() {
+		
+	}
+}

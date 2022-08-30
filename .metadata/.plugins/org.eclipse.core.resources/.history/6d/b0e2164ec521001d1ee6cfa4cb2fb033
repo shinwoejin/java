@@ -1,0 +1,13 @@
+package kr.brains;
+
+// 상속(inheritance) : 상속 허가된 것만 상속해서 사용할 수 있음
+public class ModCalculator extends NewCalculator {
+		// 생성자는 아무 생성자도 정의하지 않은 경우 컴파일러가 기본 생성자를 정의해줌.
+		// 생성자가 하나 이상 존재하는 경우 컴파일러는 기본 생성자를 정의하지 않음.
+		
+		public ModCalculator(int o1, String op, int o2) { 
+				operand1 = o1;
+				operator = op;
+				operand2 = o2;
+		}
+}

@@ -1,0 +1,7 @@
+package kr.brains.project;
+
+public class WebtoonExample {
+	public static void main(String[] args) {
+		
+	}
+}

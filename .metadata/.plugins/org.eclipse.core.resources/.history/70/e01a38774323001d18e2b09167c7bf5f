@@ -1,0 +1,11 @@
+package chap06.note;
+
+public class note03 {
+
+	// 상속
+	// - 상속, 메소드 재정의, final 클래스, final 메소드(재정의 불가)
+	// Super Class : 상속 해주는 클래스(Parent Class Base, Existing)
+	// Suer Class 추가 중첩 재정의 => Sub Class
+	// Sub Class : (Child Class, Derived Extended)
+	
+}

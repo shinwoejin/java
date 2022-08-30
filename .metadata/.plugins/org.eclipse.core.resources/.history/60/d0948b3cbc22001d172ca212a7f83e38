@@ -1,0 +1,11 @@
+package kr.brains071;
+
+public class NewNumberExample {
+
+	public static void main(String[] args) {
+		NewNumber newNum = new NewNumber();
+		System.out.println(newNum.shortValue());
+		
+	}
+
+}

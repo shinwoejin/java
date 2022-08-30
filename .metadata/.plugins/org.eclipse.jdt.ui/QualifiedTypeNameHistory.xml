@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="kr.brains.NewCalculator"/>
+    <fullyQualifiedTypeName name="kr.brains.interf.SmartPhone"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+    <fullyQualifiedTypeName name="thrbrains.pim.model.Member"/>
+    <fullyQualifiedTypeName name="thrbrains.pim.controller.MemberController"/>
+    <fullyQualifiedTypeName name="thebrains.pim.model.Member"/>
+</qualifiedTypeNameHistroy>

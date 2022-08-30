@@ -1,0 +1,11 @@
+package kr.brains072;
+
+public class Square extends Polygon{
+
+	@Override	// annotation : 어노테이션, 에노테이션
+	public int evaluate() {	//재정의
+		int area = 
+		return 0;
+	}
+
+}
