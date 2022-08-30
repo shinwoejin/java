@@ -1,0 +1,9 @@
+package kr.brains02;
+
+// Gugudan 클래스가 같은 패키지에 있는 경우(향후 import 되었거나)
+public class SubGugudan extends Gugudan {
+		// direction : up, down - up dan - > 9단, down 2단 -> dan
+		public void printFrom(int dan, String direction) {
+			
+		}
+}

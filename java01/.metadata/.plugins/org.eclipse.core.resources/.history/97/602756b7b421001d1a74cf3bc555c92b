@@ -1,0 +1,16 @@
+package kr.brains;
+
+public class Calculator {
+	// 10 + 20 ; 10, 20 피연자, + 연산자
+	private int operand1;
+	private int operand2;
+	private String operator;
+	
+	public int calc() {
+		int result = 0;
+		if(operator.equals("+"))
+			result = operand1 + operand2;
+		else if(operator.equals("-"))
+		return
+	}
+}

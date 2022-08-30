@@ -1,0 +1,11 @@
+package kr.brains072;
+
+public class Triangle extends Polygon {
+
+	@Override
+	public int evaluate() {
+		int area = super.area = super.width * super.height / 2;
+		return super.area;
+	}
+	
+}

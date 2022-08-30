@@ -1,0 +1,12 @@
+package kr.brains;
+
+public class CalculatorExample {
+	public static void main(String[] args) {
+		// 기본 생성자(매개변수가 없는) 호출하여 객체를 생성
+		 // calculator : 객체 참조 변수
+		Calculator calculator = new Calculator();
+		System.out.println(calculator.calc());
+		calculator = new Calculator(23, "*", 40);
+		System.out.println(calculator.calc());
+	}
+}

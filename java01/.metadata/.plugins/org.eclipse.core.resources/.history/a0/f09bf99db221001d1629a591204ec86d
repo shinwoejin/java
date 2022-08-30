@@ -1,0 +1,14 @@
+package days05.note;
+
+public class note01 {
+	public static void main(String[] args) {
+		
+		// 언어 구성 요소
+		// - 시스템 정의 어휘 : 예약어, 연산자, 구분자, 주석
+		// - 사용자 정의 어휘 : 식별자(클래스이름, 메소드 이름, 변수),리터럴
+		
+		// 함수 = 연관된 문장들의 집합(모음(그룹)) 
+		// = 메소드(OOP - Object Oriented Programming)
+		// 클래스, 객체에 포함
+	}
+}

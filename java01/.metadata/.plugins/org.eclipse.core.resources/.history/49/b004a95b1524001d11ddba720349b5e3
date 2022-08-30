@@ -1,0 +1,8 @@
+module days05 {
+	requires java.se;
+	// 패키지들을 requires 하는것.
+	// java.se 모듈이 필요함을 컴파일러에게 알림
+	// 컴파일 : 소스프로그램(Source Code)을 
+	// 목적프로그램(Object Code) 번역해주는 행위
+	
+}

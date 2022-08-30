@@ -1,0 +1,18 @@
+package kr.brains072;
+
+public class Trapezoid extends Polygon{
+	
+	private int upper;
+	
+	public Trapezoid(int height, int width, int upper) {
+		super(height, width);
+		this.upper = upper;
+	}
+
+	@Override
+	public int evaluate() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
