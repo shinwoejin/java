@@ -1,7 +1,0 @@
-package kr.brains071;
-
-import java.lang.Number;
-
-public class NewNumber extends Number{
-
-}

@@ -1,7 +1,0 @@
-package kr.brains.api;
-
-public class Car {
-	public void speedUP() {
-		System.out.println("속도 증가");
-	}
-}

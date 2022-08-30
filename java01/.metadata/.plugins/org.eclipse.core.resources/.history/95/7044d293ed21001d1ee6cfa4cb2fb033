@@ -1,8 +1,0 @@
-package kr.brains02;
-
-// JCF : Java Collection Framwork
-// 이해 : 상속, 추상클래스, 인터페이스, 제너릭(Generics)
-
-public class ArrayListExt<T> extends ArrayList<T>{
-
-}

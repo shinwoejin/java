@@ -1,4 +1,0 @@
-module days05 {
-	requires java.se;
-	// 패키지들을 requires 하는것.
-}
