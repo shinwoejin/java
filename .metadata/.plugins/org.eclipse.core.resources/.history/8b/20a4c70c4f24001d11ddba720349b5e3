@@ -1,7 +1,0 @@
-package kr.brains.project;
-
-// 웹툰을 등록하고 조회
-// 웹툰 Book 종류이다.
-public class Webtoon implements {
-
-}

@@ -1,6 +1,0 @@
-package kr.brains02;
-
-// Gugudan 클래스가 같은 패키지에 있는 경우(향후 import 되었거나)
-public class SubGugudan extends Gugudan {
-		
-}

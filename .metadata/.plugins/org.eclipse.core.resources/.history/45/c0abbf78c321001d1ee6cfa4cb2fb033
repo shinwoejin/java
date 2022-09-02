@@ -1,6 +1,0 @@
-package kr.brains;
-
-// 상속(inheritance)
-public class ModCalculator extends NewCalculator {
-	
-}

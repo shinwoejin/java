@@ -1,3 +1,0 @@
-module days05 {
-	requires java.se;
-}

@@ -1,5 +1,0 @@
-package kr.brains02;
-
-public class ArrayListExt<T> extends ArrayList<T>{
-
-}

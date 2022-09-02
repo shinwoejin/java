@@ -1,8 +1,0 @@
-package kr.brains.interf;
-
-public class SmartPhoneExample {
-	public static void main(String[] args) {
-		SmartPhone sp = new SmartPhone();
-		
-	}
-}

@@ -1,7 +1,0 @@
-package kr.brains072;
-
-public class Rectangle {
-	public  Rectangle(int height, int width) {
-		super(height, width);
-	}
-}
